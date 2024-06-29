@@ -2,7 +2,6 @@
 _Javascript e TypeScript - front-end e back-end (Full Stack) - Node, Express, noSQL, React, hooks, Redux, Design Patterns._
 
 
-
 ###  Assuntos Abordados
 > ✅  <strong> JavaScript Básico, Funcional e Orientado a Objetos (ES6+, front-end e back-end) </strong>
 > ✅  <strong> Node, Express, MongoDB e MySQL/MariaDB (Back-end) </strong>
