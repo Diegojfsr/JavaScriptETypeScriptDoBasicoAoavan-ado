@@ -13,9 +13,10 @@ _Javascript e TypeScript - front-end e back-end (Full Stack) - Node, Express, no
 
 
 ### 🛠 Tecnologias Utilizadas
-- VS Code.
-- JavaScript.
+- VS Code
+- JavaScript
 - Node.Js
+- TypeScript
 
 ### 📑 Referências Utilizadas
 [Curso de JavaScript e TypeScript](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/?couponCode=2021PM25)
